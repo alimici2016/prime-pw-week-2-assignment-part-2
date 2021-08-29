@@ -139,7 +139,7 @@ FIX let colorTwo = 'blue'; Should be set to red
 let mix = true;
 
 if (mix === true) {
-FIX  colorOne = 'purple'; mix should equal purple
+FIX  colorOne = 'purple'; colorOne + colorTwo = 'purple'
 }
 */
 
